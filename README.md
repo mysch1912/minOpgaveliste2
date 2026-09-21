@@ -41,3 +41,8 @@ For at starte applikationen køres følgende kommando i terminalen:
 
 ```bash
 npx expo start
+
+## Demo video
+https://github.com/mysch1912/minOpgaveliste2
+
+https://youtube.com/shorts/6Ny3fK5f85s?si=SUOrJ6CEtrh_JFdg  
